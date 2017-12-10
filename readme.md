@@ -1,0 +1,1 @@
+#Python small coding example with soluition.
